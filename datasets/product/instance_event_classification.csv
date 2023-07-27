@@ -1,0 +1,18 @@
+event_name+is_app_builder_key_event+is_admin_key_event+is_key_viewer_event
+Instance Login+False+False+False
+Small App Opened+False+False+True
+Story Opened+False+False+True
+Home Opened+False+False+True
+Live query created+True+False+False
+Connector configuration+True+False+False
+Dataset configuration+True+False+False
+Prepared dataset created+True+False+False
+SQL Query Editor opened+True+False+False
+Logout+False+False+False
+Home preview+False+False+False
+Glossary tab opened+False+False+True
+App history opened+False+True+False
+Create Blank App+True+False+False
+Notifications+True+False+False
+Restore app+False+True+False
+Settings+False+True+False

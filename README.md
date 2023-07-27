@@ -1,17 +1,25 @@
-# Toucan Toco - Case Study - Data Analyst intern
+# Toucan Toco - Case Study - Data Analyst 
 
-Ce repository contient l'ensemble des matériaux nécessaires pour réaliser le cas pratique pour le stage de Data Analyst de Toucan Toco.
 
-Pour réaliser ce cas technique, tu dois suivre les étapes suivantes:
+This repository contains all you need to work on the technical test when applying for data analysts positions.
 
-### 1. Accès à l'environnement de travail
+The technical tests consists of following steps below
 
-Pour démarrer ton travail, tu peux cliquer sur le bouton suivant : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ToucanToco/data-hiring-case_study-data_analyst_intern/HEAD)
-. Il t'amènera vers une plateforme qui met à ta disposition tout l'environnement nécessaire pour travailler (ne t'inquiète pas, le chargement peut durer un certain temps car Binder doit installer l'environnement). L'environnement inclut une installation de python 3 et de ses librairies standard, ainsi que les librairies numpy et pandas qui te suffiront à répondre au besoin de ce cas.
 
-Il se peut que tu rencontres des problèmes avec l'environnement Binder, dans ce cas tu peux toujours télécharger les différents éléments et travailler en local sur ton ordinateur. Si tu rencontres des soucis n'hésite pas à nous contacter.
+### 1. Access to your working environment
 
-### 2. Ouverture du fichier "script.ipynb"
+To start your work, you can click on the following link : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ToucanToco/data-hiring-case_study-data_analyst_intern/HEAD)
+.
+
+You will access to a platform which set up all the environment  you need to perform your technical test (don't worry, it might takes a long time to load because Binder is installing the env with python3 and some standard librairies like numpy and pandas).
+
+If you got issues using Binder, you can still download the working documents and work locally on your computer but don't hesitate to reach us.
+
+### 2. Ouverture du fichier de travail
+
+When Binder environment finish to load, you will access to a Jupyter home page with all directories and files for this repository.
+
+Depend on the job offer you apply to
 
 Une fois le chargement de l'environnement Binder terminé, tu arrives sur une page Jupyter où tu retrouves la liste des dossiers et fichiers de ce repository.
 Tu peux cliquer sur le fichier "script.ipynb" comme montré ci-dessous:
