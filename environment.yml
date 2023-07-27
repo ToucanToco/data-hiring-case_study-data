@@ -1,6 +1,4 @@
-name: conda-env
-channels:
-  - conda-forge
+name: python 3.10
 dependencies:
   - python
   - numpy
