@@ -1,6 +1,6 @@
 name: tctc
 channels:
-  - conda-forge
+  - miniconda
 dependencies:
   - python=3.11
   - numpy
