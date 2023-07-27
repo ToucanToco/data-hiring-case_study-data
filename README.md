@@ -8,7 +8,7 @@ The technical tests consists of following steps below
 
 ### 1. Access to your working environment
 
-To start your work, you can click on the following link : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ToucanToco/data-hiring-case_study-data_analyst_intern/HEAD)
+To start your work, you can click on the following link : [![Binder](https://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/ToucanToco/data-hiring-case_study-data_analyst_intern/tctc/HEAD)
 .
 
 You will access to a platform which set up all the environment  you need to perform your technical test (don't worry, it might takes a long time to load because Binder is installing the env with python3 and some standard librairies like numpy and pandas).
