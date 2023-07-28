@@ -23,8 +23,8 @@ If you are not familiar with python environment and jupyter notebooks, I recomme
 
 - [Using Python Environments in Visual Studio Code](https://code.visualstudio.com/docs/python/environments)
 
-### 2. When you are done and you want to submit your work
+## 2. When you are done and you want to submit your work
 
-When you are done you can create and submit a pull request with the notebook you edited or send it by email in `.ipynb` or `.pdf` version to [the reviewer](mailto:yanni.iyeze@toucantoco.com)
+When you are done you can create and submit a pull request with the notebook you edited or send it by email in `.ipynb` or `.pdf` version to the reviewer (yanni.iyeze@toucantoco.com)
 
 Don't hesitate to also use this email if you have any questions.
