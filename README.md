@@ -33,6 +33,8 @@ But If you want still to work locally on your computer, I recommend you to use r
 
 ## 2. When you are done and you want to submit your work
 
-When you are done you can create and submit a pull request with the notebook you edited or send it by email in `.ipynb` or `.pdf` version to the reviewer (yanni.iyeze@toucantoco.com)
+When you are done you can export in `.ipynb` or `.pdf` version and send the notebook you edited by email to the reviewer (yanni.iyeze@toucantoco.com)
+
+You can also create and submit a pull request with the notebook you edited.
 
 Don't hesitate to also use this email if you have any questions.
