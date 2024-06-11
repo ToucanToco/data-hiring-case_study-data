@@ -12,6 +12,7 @@ After cloning or downloading this repository and based on the job offer you appl
 
 - `Script - Data Analyst.ipynb`
 - `Script - Product Data Analyst.ipynb`
+- `Script - Data Engineer-Analyst.ipynb`
 
 The recommended librairies you will need to install in your python environment are in the `requirements.txt` file.
 
